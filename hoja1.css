@@ -1,0 +1,164 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: Trebuchet MS;
+    color: #9b59b6;
+}
+h2{
+    color: #4fc3f7;
+    font-size: 28px;
+    font-family: Trebuchet MS;
+}
+h4{
+    color: #945feb;
+    font-size: 28px;
+    font-family: Trebuchet MS;
+    margin-top: 50px;
+    text-align: center;
+}
+p{
+   color: #e0e0e0;
+   font-size: 20px;
+   font-family: Verdana, sans-serif; 
+   text-align: justify;
+}
+.resaltado{
+    color: #0068ad;
+}
+.resaltado2{
+    color: #ad6800;
+}
+.EquipoTrab {
+    text-align: center;      
+    margin: 30px auto;       
+    max-width: 1000px;       
+}
+
+.EquipoTrabText {
+    font-size: 24px;
+    font-family: Trebuchet MS, sans-serif;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.WorkTeamImg {
+    width: 100%;             
+    max-width: 900px;        
+    height: auto;            
+    border-radius: 12px;     
+}
+
+.OficinasPrinc {
+    text-align: center;     
+    margin: 30px auto;      
+    max-width: 1000px;     
+}
+
+.OficinasPrincText {
+    font-size: 24px;
+    font-family: Trebuchet MS, sans-serif;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.OficinasImg {
+    width: 100%;          
+    max-width: 900px;      
+    height: auto;       
+    border-radius: 12px;   
+}
+
+
+.SalaConf {
+    text-align: center;     
+    margin: 30px auto;      
+    max-width: 1000px;     
+}
+
+.SalaConfText {
+    font-size: 24px;
+    font-family: Trebuchet MS, sans-serif;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.SalaConfImg {
+    width: 100%;          
+    max-width: 900px;      
+    height: auto;       
+    border-radius: 12px;   
+}
+
+
+
+.tecnologias-usadas {
+     list-style-type: square;
+     padding-left: 20px;
+     color: #ffffff;
+     font-family: Arial, sans-serif;
+     font-size: 22px;
+     max-width: 300px;
+     background-color: #380a39;
+     border-radius: 8px;
+     padding: 15px;
+        }
+.tecnologias-usadas li {
+    margin: 10px;
+     margin-bottom: 10px;
+     cursor: pointer;
+     transition: color 0.3s ease;
+     color: #ffffff;
+ }
+
+ .Mision {
+    color: #ee1708c4;
+    font-size: 30px;
+ }
+ .MisionP {
+    color: #faf7f7;
+ }
+ .VisionP {
+    color: #e0e0e0;
+ }
+ .Vision {
+    color: #e20808;
+    font-size: 30px;
+ }
+ .Compromiso {
+    color: #9b59b6;
+    font-size: 30px;
+ }
+
+.Tabla {
+  display: flex;
+  justify-content: center; 
+  align-items: center;      
+  min-height: 25vh;        
+  font-size: 30px;
+  padding: 20px;
+  text-align: center;
+  border-collapse: collapse;
+}
+ .Dentro {
+  background-color: #290d8c; 
+  color: #ffffff;            
+  padding: 10px;
+  border: 1px solid #200a66; 
+  text-align: center;
+ }
+ .Title {
+  background-color: #1424a3; 
+  color: #0a0a0a;            
+  font-weight: bold;
+  padding: 12px;
+ }
+
+ .Enlace {
+    color: #2d5ee2;
+ }
+ body {
+    background: linear-gradient(to right, #3e0d46, #37073b, #47004d);
+ }
+ .Pie {
+    color: grey;
+ }
